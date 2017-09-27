@@ -75,6 +75,28 @@ header {
   margin: 30px 150px;
 }
 
-.player {
-  margin: 50px 50px;
+.card {
+  margin: 80px;
+  border-color: #23d160;
+}
+
+.card-header {
+  background-color: #23d160;
+  color: white;
+}
+
+.card-block {
+  background-color: white;
+}
+
+.input-group {
+  margin-top: 20px;
+  border: 1px solid #23d160;
+}
+
+.btn {
+  margin-top: 20px;
+  margin-right: 20px;
+  background-color: #23d160;
+  color: white;
 }

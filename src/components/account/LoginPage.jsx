@@ -36,6 +36,8 @@ export default class LoginPage extends React.Component {
     return (
       <div className="row justify-content-center">
         <div className="col-10 col-sm-7 col-md-5 col-lg-4">
+          <h1 className="title">Mondegreen</h1>
+          <p className="subtitle">Guess the name of this song with this misheard lyrics.</p>
           <Form>
             <FormGroup>
               <Label for="exampleEmail">Email</Label>
@@ -43,7 +45,7 @@ export default class LoginPage extends React.Component {
                 type="email"
                 name="email"
                 id="userEmail"
-                placeholder="noreply@musiclist.com"
+                placeholder="Email"
                 value={this.state.email}
                 onChange={this.handleEmailChange}
               />
@@ -54,7 +56,7 @@ export default class LoginPage extends React.Component {
                 type="password"
                 name="password"
                 id="userPassword"
-                placeholder="password"
+                placeholder="Password"
                 value={this.state.password}
                 onChange={this.handlePasswordChange}
               />

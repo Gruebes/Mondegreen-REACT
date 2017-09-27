@@ -4,139 +4,199 @@
       "misheard_lyric": "Money for nothin' and chips for free",
       "correct_lyric": "Money for nothin' and your chicks for free",
       "artist": "Dire Straits",
-      "song_title": "Money For Nothing"
+      "song_title": "Money For Nothing",
+      "audio_track": "https://soundcloud.com/direstraits/money-for-nothing-very-best-of",
+      "start_time": "2:15",
+      "duration": 3
     },
     {
       "id": 2,
       "misheard_lyric": "Every time you go away, you take a piece of meat with you",
       "correct_lyric": "Every time you go away, you take a piece of me with you",
       "artist": "Paul Young",
-      "song_title": "Every Time You Go Away"
+      "song_title": "Every Time You Go Away",
+      "audio_track": "https://soundcloud.com/paul-young-official/everytime-you-go-away-album",
+      "start_time": "1:02",
+      "duration": 11
     },
     {
       "id": 3,
       "misheard_lyric": "Sue Lawley",
       "correct_lyric": "So lonely",
       "artist": "The Police",
-      "song_title": "So Lonely"
+      "song_title": "So Lonely",
+      "audio_track": "https://soundcloud.com/the-police-official/so-lonely",
+      "start_time": "0:49",
+      "duration": 7
     },
     {
       "id": 4,
       "misheard_lyric": "We built this city on sausage rolls",
       "correct_lyric": "We built this city on rock 'n' rolls",
       "artist": "Starship",
-      "song_title": "We Built This City"
+      "song_title": "We Built This City",
+      "audio_track": "https://soundcloud.com/starship-official/we-built-this-city-3",
+      "start_time": "0:04",
+      "duration": 3
     },
     {
       "id": 5,
       "misheard_lyric": "Saving his life from this warm sausage tea",
       "correct_lyric": "Spare him his life from this monstrosity",
       "artist": "Queen",
-      "song_title": "Bohemian Rhapsody"
+      "song_title": "Bohemian Rhapsody",
+      "audio_track": "https://soundcloud.com/queen-69312/bohemian-rhapsody-2",
+      "start_time": "2:28",
+      "duration": 4
     },
     {
       "id": 6,
       "misheard_lyric": "See that girl, watch her scream, kicking the dancing queen",
       "correct_lyric": "See that girl, watch that scene, diggin' the Dancing Queen",
       "artist": "ABBA",
-      "song_title": "Dancing Queen"
+      "song_title": "Dancing Queen",
+      "audio_track": "https://soundcloud.com/abba-official/dancing-queen-1",
+      "start_time": "0:29",
+      "duration": 7
     },
     {
       "id": 7,
       "misheard_lyric": "Excuse me while I kiss this guy",
       "correct_lyric": "Excuse me while I kiss the sky",
       "artist": "Jimi Hendrix",
-      "song_title": "Purple Haze"
+      "song_title": "Purple Haze",
+      "audio_track": "https://soundcloud.com/jimihendrix/purple-haze-live-at-woodstock",
+      "start_time": "0:39",
+      "duration": 3
     },
     {
       "id": 8,
       "misheard_lyric": "Dancing queen, feel the beat from the tangerine",
       "correct_lyric": "Dancing queen, feel the beat from the tambourine",
       "artist": "ABBA",
-      "song_title": "Dancing Queen"
+      "song_title": "Dancing Queen",
+      "audio_track": "https://soundcloud.com/abba-official/dancing-queen-1",
+      "start_time": "1:37",
+      "duration": 6
     },
     {
       "id": 9,
       "misheard_lyric": "Sweet dreams are made of cheese",
       "correct_lyric": "Sweet dreams are made of these",
       "artist": "The Eurythmics",
-      "song_title": "Sweet Dreams (are made of this)"
+      "song_title": "Sweet Dreams (are made of this)",
+      "audio_track": "https://soundcloud.com/eurythmics-official/sweet-dreams-are-made-of-4",
+      "start_time": "0:08",
+      "duration": 3
     },
     {
       "id": 10,
       "misheard_lyric": "Calling Jamaica",
       "correct_lyric": "Call me when you try to wake her",
       "artist": "R.E.M.",
-      "song_title": "The Sidewinder Sleeps Tonite"
+      "song_title": "The Sidewinder Sleeps Tonite",
+      "audio_track": "https://soundcloud.com/rem-official/the-sidewinder-sleeps-tonite",
+      "start_time": "0:53",
+      "duration": 3
     },
     {
       "id": 11,
       "misheard_lyric": "Or should I just keep chasing penguins",
       "correct_lyric": "Or should I just keep chasing pavements",
       "artist": "Adele",
-      "song_title": "Chasing Pavements"
+      "song_title": "Chasing Pavements",
+      "audio_track": "https://soundcloud.com/adelemusic/chasing-pavements",
+      "start_time": "0:48",
+      "duration": 4
     },
     {
       "id": 12,
       "misheard_lyric": "All the lonely Starbucks lovers",
       "correct_lyric": "Got a long list of ex-lovers",
       "artist": "Taylor Swift",
-      "song_title": "Blank Space"
+      "song_title": "Blank Space",
+      "audio_track": "https://soundcloud.com/taylorswiftofficial/blank-space",
+      "start_time": "0:55",
+      "duration": 3
     },
     {
       "id": 13,
       "misheard_lyric": "I can see clearly now,Lorraine is gone",
       "correct_lyric": "I can see clearly now,the rain is gone",
       "artist": "Johnny Nash",
-      "song_title": "I can see clearly now"
+      "song_title": "I can see clearly now",
+      "audio_track": "https://soundcloud.com/johnny-nash-official/i-can-see-clearly-now",
+      "start_time": "0:06",
+      "duration": 6
     },
     {
       "id": 14,
-      "misheard_lyric": "Gimme Gimme Gimme a man after midnight",
-      "correct_lyric": "take me to the doctors at the break of the day",
-      "artist": "Take me through the darkness to the break of the day",
-      "song_title": "ABBA"
+      "misheard_lyric": "Take me to the doctors at the break of the day",
+      "correct_lyric": "Take me through the darkness to the break of the day",
+      "artist": "Gimme Gimme Gimme a man after midnight",
+      "song_title": "ABBA",
+      "audio_track": "https://soundcloud.com/abba-official/gimme-gimme-gimme-a-man-after",
+      "start_time": "1:20",
+      "duration": 4
     },
     {
       "id": 15,
       "misheard_lyric": "Poppadom Peach",
       "correct_lyric": "Papa don't preach",
       "artist": "Madonna",
-      "song_title": "Papa don't preach"
+      "song_title": "Papa don't preach",
+      "audio_track": "https://soundcloud.com/madonna/papa-dont-preach",
+      "start_time": "1:35",
+      "duration": 3
     },
     {
       "id": 16,
       "misheard_lyric": "It doesn’t make a difference if we’re naked or not",
       "correct_lyric": "It doesn’t make a difference if we make it or not",
       "artist": "Bon Jovi",
-      "song_title": "Livin’ On A Prayer"
+      "song_title": "Living On A Prayer",
+      "audio_track": "https://soundcloud.com/poprocks-1/livin-on-a-prayer-bon-jovi",
+      "start_time": "1:20",
+      "duration": 4
     },
     {
       "id": 17,
       "misheard_lyric": "I'm farting carrots",
       "correct_lyric": "I'm 14 carat",
       "artist": "Selena Gomez",
-      "song_title": "Good for you"
+      "song_title": "Good for you",
+      "audio_track": "https://soundcloud.com/selena-gomez-official/good-for-you-1",
+      "start_time": "0:10",
+      "duration": 3
     },
     {
       "id": 18,
       "misheard_lyric": "Then I saw her face, now I’m gonna leave her",
       "correct_lyric": "Then I saw her face, now I’m a believer",
       "artist": "The Monkees",
-      "song_title": "I’m a Believer"
+      "song_title": "I'm a Believer",
+      "audio_track": "https://soundcloud.com/themonkees/im-a-believer-1",
+      "start_time": "0:27",
+      "duration": 4
     },
     {
       "id": 19,
       "misheard_lyric": "I want to hold your ham",
       "correct_lyric": "I want to hold your hand",
       "artist": "The Beatles",
-      "song_title": "I Want To Hold Your Hand"
+      "song_title": "I Want To Hold Your Hand",
+      "audio_track": "https://soundcloud.com/thebeatlesrevisited/i-want-to-hold-your-hand",
+      "start_time": "0:22",
+      "duration": 3
     },
     {
       "id": 20,
       "misheard_lyric": "Kicking your cat all over the place",
       "correct_lyric": "Kicking your can all over the place",
       "artist": "Queen",
-      "song_title": "We Will Rock You"
+      "song_title": "We Will Rock You",
+      "audio_track": "https://soundcloud.com/queen-69312/we-will-rock-you-remastered",
+      "start_time": "0:21",
+      "duration": 3
     }
   ]

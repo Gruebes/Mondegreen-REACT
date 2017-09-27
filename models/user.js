@@ -9,6 +9,7 @@ const User = new Schema({
   firstName: String,
   lastName: String,
   email: String,
+  gameLevel: { type: Number, min: 1, max: 3, default: 1 },
 });
 
 User.plugin(passportLocalMongoose);

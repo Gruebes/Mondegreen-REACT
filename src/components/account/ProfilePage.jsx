@@ -16,12 +16,12 @@ export default function ProfilePage(props) {
         <div className="row">
         <Jumbotron>
         <h1 className="display-3">Mondegreen</h1>
-        <p> /ˈmɒndɪɡriːn/ is a mishearing or misinterpretation of a phrase as a result of near-homophony, in a way that gives it a new meaning.</p>
+        <p> /ˈmɒndɪɡriːn/ - a misunderstood or misinterpreted word or phrase resulting from a mishearing of the lyrics of a song</p>
         <hr />
-        
+        <Button id="start" color="info" size="lg" tag={Link} to={`/game_console/${match.params.id}`}>Start Playing!</Button>
       </Jumbotron>
         
-          <Button id="start" color="secondary" size="lg" tag={Link} to={`/game_console/${match.params.id}`}>Start Playing!</Button>
+          
           <Video />
         </div>
       </div>

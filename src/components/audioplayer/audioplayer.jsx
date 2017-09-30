@@ -62,4 +62,3 @@ class AudioPlayer extends React.Component {
 }
 
 export default AudioPlayer;
-
